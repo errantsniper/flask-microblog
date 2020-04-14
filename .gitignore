@@ -38,3 +38,8 @@ nosetests.xml
 venv
 app.db
 microblog.log*
+.env
+.idea/misc.xml
+.idea/microblog.iml
+.idea/microblog.iml
+.idea/misc.xml
